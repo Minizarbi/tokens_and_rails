@@ -2,7 +2,8 @@
 
 It is just a little program for fun, with tokens, following rails, affected by physics, all of this with HTML5 canvas and JavaScript.
 
-Implemented:
+## Implementation
+
 * Token display - 100%
 I may add some colors, or personnalization some day.
   * Line path - 100%
