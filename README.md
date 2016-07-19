@@ -2,6 +2,8 @@
 
 It is just a little program for fun, with tokens, following rails, affected by physics, all of this with HTML5 canvas and JavaScript.
 
+![Vanilla JS](http://vanilla-js.com/assets/button.png)
+
 ## Implementation
 
 * Token display - 100%
